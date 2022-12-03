@@ -1,4 +1,3 @@
-![WhatsApp Image 2022-12-02 at 21 17 43 (1)](https://user-images.githubusercontent.com/97104311/205430721-33ead862-d0d2-420b-b10c-3e7ba8e32349.jpeg)
 
 # Smart-Surveillance-System-with-ANPR
 
